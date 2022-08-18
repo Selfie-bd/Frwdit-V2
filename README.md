@@ -1,3 +1,7 @@
+
+
+https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+
 # 📠 Auto Forward V2
 A Simple Bot can copy any media to a private channel provided!
 Without Admin Permission in FROM_CHANNEL
